@@ -1,0 +1,10 @@
+classes=1000
+# train  = /data/imagenet/imagenet1k.train.list
+# valid  = /data/imagenet/imagenet1k.valid.list
+valid = data/inet.val.list
+backup = /home/pjreddie/backup/
+labels = data/imagenet.labels.list
+names  = data/imagenet.shortnames.list
+batch = data/imagenet.batch.list
+top=5
+
